@@ -1,1 +1,2 @@
-Projet d'initiation à github vu en TP de SAé23.
+Site web 36th America's Cup
+Il s'agit d'un site web utilisé en formation HTML/CSS puis git
